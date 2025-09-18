@@ -1,0 +1,5 @@
+Python libraries :-
+ultralytics
+deep-sort-realtime
+opencv-python-headless
+pandas
