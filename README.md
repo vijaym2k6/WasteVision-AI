@@ -12,5 +12,3 @@ Our mission is to make waste management smarter, reduce human effort, and suppor
 - **Eco-Friendly Impact** - Designed to improve recycling efficiency and reduce landfill load.  
 
 ---
-
-## Project Structure
